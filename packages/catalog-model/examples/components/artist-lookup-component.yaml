@@ -4,7 +4,7 @@ metadata:
   name: artist-lookup
   description: Artist Lookup
   annotations:
-    lighthouse.com/website-url: https://example.com/
+    lighthouse.com/website-url: https://example.com
   tags:
     - java
     - data
